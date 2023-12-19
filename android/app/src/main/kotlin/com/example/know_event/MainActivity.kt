@@ -1,0 +1,6 @@
+package com.example.know_event
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
